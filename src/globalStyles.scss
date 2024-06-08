@@ -1,0 +1,20 @@
+$primaryColor : #00415D ;
+$secondaryColor : #E9FBF6 ;
+
+$complementaryColor : #5D2B00 ;
+$complementaryColor : #160005 ;
+
+$analogColor1 : #00324A ;
+$analogColor2 : #E9F6FB ;
+
+$triadeColor1 : #5D0041 ;
+$triadeColor2 : #415D00 ;
+$triadeColor3 : #F6E9FB ;
+$triadeColor4 : #FBF6E9 ;
+
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
+
+* { 
+    font-family: "Heebo", sans-serif;
+    font-optical-sizing: auto;
+}
